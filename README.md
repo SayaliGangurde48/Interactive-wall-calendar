@@ -75,10 +75,10 @@ http://localhost:5173
 
 ---
 
+
 ## 🌐 Live Demo
 
-👉 (https://drive.google.com/file/d/1be5SajKMvPmqzo7mSBTXXBCRcIFqiZQz/view?usp=drivesdk)
-
+🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1be5SajKMvPmqzo7mSBTXXBCRcIFqiZQz/view?usp=drivesdk)
 ---
 
 ## 🎯 Key Highlights
