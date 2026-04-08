@@ -14,6 +14,14 @@ A modern, responsive **wall calendar UI** built using React (Vite) that allows u
 
 ---
 
+🖼️ Screenshots
+💻 Desktop View
+<img width="1907" height="913" alt="Screenshot 2026-04-08 181728" src="https://github.com/user-attachments/assets/13aeb936-a115-4e31-a063-ce7053a56723" />
+📱 Mobile View
+<img width="516" height="853" alt="Screenshot 2026-04-08 181757" src="https://github.com/user-attachments/assets/c771a03f-d7c0-452a-9b23-05cca2933c1c" />
+
+---
+
 ## 🛠 Tech Stack
 
 * React (Vite)
